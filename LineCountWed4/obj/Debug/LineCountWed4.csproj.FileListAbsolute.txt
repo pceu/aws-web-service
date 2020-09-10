@@ -1,0 +1,9 @@
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\bin\Debug\LineCountWed4.exe.config
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\bin\Debug\LineCountWed4.exe
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\bin\Debug\LineCountWed4.pdb
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\obj\Debug\LineCountWed4.Form1.resources
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\obj\Debug\LineCountWed4.Properties.Resources.resources
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\obj\Debug\LineCountWed4.csproj.GenerateResource.cache
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\obj\Debug\LineCountWed4.csproj.CoreCompileInputs.cache
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\obj\Debug\LineCountWed4.exe
+C:\Users\Jo\Desktop\Practical\Week7\LineCountWed4\LineCountWed4\obj\Debug\LineCountWed4.pdb
